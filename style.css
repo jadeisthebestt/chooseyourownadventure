@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+li h4 {
+  text-align: center;
+}
+
+li img {
+  width: 400px;
+  height: 300px;
+}
+
+img {
+  width: 400px;
+}
+
+div {
+  display: none;
+}
+
+div#start {
+  display: block;
+}
